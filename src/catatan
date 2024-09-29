@@ -1,0 +1,13 @@
+Number Tipe Data Meliputi 3 File : Number.kt, FloatingNumber.kt, 
+
+Perbedaan val dan val dalam deklarasi variabel
+val (Immutable):
+Nilai tidak bisa diubah setelah inisialisasi.
+Contoh: val name = "Alice"
+Digunakan untuk nilai konstan atau yang tidak berubah.
+
+var (Mutable):
+Nilai bisa diubah setelah inisialisasi.
+Contoh: var age = 25
+Digunakan untuk nilai yang mungkin berubah selama program berjalan.
+Gunakan val untuk variabel yang tidak perlu diubah, dan var untuk variabel yang nilainya bisa berubah.
